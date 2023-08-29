@@ -2,5 +2,5 @@
 * text=auto
 
 # Linguist overrides
-*yml linguist-detectable=true
-*yml linguist-vendored=false
+*.yml linguist-detectable=true
+*.yml linguist-vendored=false
