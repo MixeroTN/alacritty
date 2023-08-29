@@ -10,4 +10,4 @@
 ## Requirements
 
 You need to install a "nerd font" to display icons (symbols) for example in Neovim.
-Download it from [https://nerdfonts.com]. This config uses JetBrainsMono Nerd Font.
+Download it from https://nerdfonts.com. This config uses JetBrainsMono Nerd Font.
