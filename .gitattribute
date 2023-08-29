@@ -3,3 +3,4 @@
 
 # Linguist overrides
 *yml linguist-detectable=true
+*yml linguist-vendored=false
