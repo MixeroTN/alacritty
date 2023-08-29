@@ -5,13 +5,7 @@ import:
   # - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
   # - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
 window:
-  dimensions:
-    columns: 100
-    lines: 85
   opacity: 1.0
-  padding:
-    y: 4
-    x: 10
   decorations: Full
 font:
   normal:
