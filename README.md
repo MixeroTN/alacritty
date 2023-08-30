@@ -12,6 +12,6 @@
 You need to install a "nerd font" to display icons (symbols) for example in Neovim.
 Download it from https://nerdfonts.com. This config uses JetBrainsMono Nerd Font.
 
-## Additional thing I did
+## Additional things I did
 
 - [On Windows] [https://github.com/gluons/powershell-git-aliases](powershell-git-aliases)
