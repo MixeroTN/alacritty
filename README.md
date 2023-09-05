@@ -14,4 +14,4 @@ Download it from https://nerdfonts.com. This config uses JetBrainsMono Nerd Font
 
 ## Additional things I did
 
-- [On Windows] [https://github.com/gluons/powershell-git-aliases](powershell-git-aliases)
+- [On Windows] [powershell-git-aliases](https://github.com/gluons/powershell-git-aliases)
